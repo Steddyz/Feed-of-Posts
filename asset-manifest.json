@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Feed-of-Posts/static/css/main.702073f4.css",
+    "main.js": "/Feed-of-Posts/static/js/main.d75e1d1f.js",
+    "index.html": "/Feed-of-Posts/index.html",
+    "main.702073f4.css.map": "/Feed-of-Posts/static/css/main.702073f4.css.map",
+    "main.d75e1d1f.js.map": "/Feed-of-Posts/static/js/main.d75e1d1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702073f4.css",
+    "static/js/main.d75e1d1f.js"
+  ]
+}
